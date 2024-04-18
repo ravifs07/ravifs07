@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravi Shah</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
-">
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ravi-shah-667663204/](https://www.linkedin.com/in/ravi-shah-667663204/)
 
