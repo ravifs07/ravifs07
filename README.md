@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ravi-shah-667663204/](https://www.linkedin.com/in/ravi-shah-667663204/)
 
-- 💬 Ask me about **Time Series, ML, AI**
+- 💬 Ask me about **DATA SCIENCE**
 
 - 📫 How to reach me **ravishah3461@gmail.com**
 
